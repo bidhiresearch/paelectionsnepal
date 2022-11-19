@@ -1,0 +1,11 @@
+[theme]
+
+#primaryColor = "#E694FF" #accent color of interactive elements
+
+backgroundColor = "#00172B"
+
+secondaryBackgroundColor = "#0083B8"
+
+textColor = "#FFF"
+
+font = "sans serif"
